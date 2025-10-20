@@ -4,6 +4,11 @@
     "name": "bluegrass",
   },
   "plugins": [
+    {
+      "name": "test-plugin",
+      "source": "./test-plugin",
+      "description": "My first test plugin"
+    }
   ]
 }
 
